@@ -1,0 +1,4 @@
+/root/dotnetcoreSignalR/obj/Debug/netcoreapp2.0/dotnetcoreSignalR.csprojAssemblyReference.cache
+/root/dotnetcoreSignalR/obj/Debug/netcoreapp2.0/dotnetcoreSignalR.csproj.CoreCompileInputs.cache
+/root/dotnetcoreSignalR/obj/Debug/netcoreapp2.0/dotnetcoreSignalR.AssemblyInfoInputs.cache
+/root/dotnetcoreSignalR/obj/Debug/netcoreapp2.0/dotnetcoreSignalR.AssemblyInfo.cs
